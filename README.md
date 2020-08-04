@@ -25,3 +25,7 @@ If you use this notebook as part of work that is to be published, please add the
 * Duo Peng and Rick Tarleton. EuPaGDT: a web tool tailored to design CRISPR guide RNAs for eukaryotic pathogens. Microbial Genomics. 2015. doi: 10.1099/mgen.0.000033
 * Gruber AR, Lorenz R, Bernhart SH, Neuböck R, Hofacker IL. The Vienna RNA Websuite. Nucleic Acids Research, Volume 36, Issue suppl_2, 1 July 2008, Pages W70-W74, DOI: 10.1093/nar/gkn188
 * Lorenz, R. and Bernhart, S.H. and Höner zu Siederdissen, C. and Tafer, H. and Flamm, C. and Stadler, P.F. and Hofacker, I.L. "ViennaRNA Package 2.0", Algorithms for Molecular Biology, 6:1 page(s): 26, 2011
+
+## License
+The software in this project is licensed under the MIT License.  Refer to the LICENSE file.
+The services that this software uses may be protected by their own copyright.  Refer to the web sites linked above for their respective copyright or license.
